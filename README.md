@@ -4,7 +4,7 @@ Welcome to FundMe, a smart contract project built using Hardhat that enables dec
 
 <h2>📌 Project Overview</h2>
 
-The FundMe smart contract is designed to:
+<h3>The FundMe smart contract is designed to:</h3>
 ✅ Allow users to donate funds in ETH.
 ✅ Store all contributions securely on the blockchain.
 ✅ Allow only the contract owner (deployer) to withdraw funds.
@@ -12,7 +12,7 @@ The FundMe smart contract is designed to:
 
 <h2>⚡ Tech Stack & Tools</h2>
 
-This project is built with:
+<h3>This project is built with:</h3>
 
 Solidity (0.8.x) – Smart contract programming language
 Hardhat – Ethereum development framework
@@ -36,7 +36,7 @@ yarn install
 
 <h2>3️⃣ Configure Environment Variables</h2>
 
-Create a .env file in the root directory and add:
+<h3>Create a .env file in the root directory and add:</h3>
 
 SEPOLIA_RPC_URL=your_alchemy_or_infura_url
 PRIVATE_KEY=your_private_key
