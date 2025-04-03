@@ -2,7 +2,7 @@
 
 Welcome to FundMe, a smart contract project built using Hardhat that enables decentralized crowdfunding on the Ethereum blockchain. This project allows users to contribute funds and enables the contract owner to withdraw them securely.
 
-📌 Project Overview
+<h2>📌 Project Overview</h2>
 
 The FundMe smart contract is designed to:
 ✅ Allow users to donate funds in ETH.
@@ -10,7 +10,7 @@ The FundMe smart contract is designed to:
 ✅ Allow only the contract owner (deployer) to withdraw funds.
 ✅ Use Chainlink Oracles to fetch real-world ETH/USD price data.
 
-⚡ Tech Stack & Tools
+<h2>⚡ Tech Stack & Tools</h2>
 
 This project is built with:
 
@@ -25,16 +25,16 @@ Hardhat Deploy – Automating deployment scripts
 
 Follow these steps to set up and deploy the FundMe smart contract locally.
 
-1️⃣ Clone the Repository
+<h2>1️⃣ Clone the Repository</h2>
 
 git clone https://github.com/yourusername/FundMe-Hardhat.git
 cd FundMe-Hardhat
 
-2️⃣ Install Dependencies
+<h2>2️⃣ Install Dependencies</h2>
 
 yarn install
 
-3️⃣ Configure Environment Variables
+<h2>3️⃣ Configure Environment Variables</h2>
 
 Create a .env file in the root directory and add:
 
@@ -43,7 +43,7 @@ PRIVATE_KEY=your_private_key
 ETHERSCAN_API_KEY=your_etherscan_api_key
 COINMARKETCAP_API_KEY=your_coinmarketcap_api_key
 
-⚙️ Compiling & Deploying the Contract
+<h2>⚙️ Compiling & Deploying the Contract</h2>
 🔹 Compile the Smart Contract
 
 yarn hardhat compile
@@ -56,10 +56,10 @@ yarn hardhat deploy
 
 yarn hardhat deploy --network sepolia
 
-✅ Running Tests
+<h2>✅ Running Tests</h2>
 
 yarn hardhat test
 
-🔍 Verifying the Contract on Etherscan
+<h2>🔍 Verifying the Contract on Etherscan</h2>
 
 yarn hardhat verify --network sepolia DEPLOYED_CONTRACT_ADDRESS
