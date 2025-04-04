@@ -18,7 +18,6 @@ Solidity (0.8.x) – Smart contract programming language
 Hardhat – Ethereum development framework
 Chainlink Oracles – For real-time ETH/USD price conversion
 Ethers.js – Interacting with Ethereum blockchain
-Mocha & Chai – For smart contract testing
 Gas Reporter – To track gas consumption
 Hardhat Deploy – Automating deployment scripts
 🚀 Getting Started
