@@ -30,7 +30,6 @@ Follow these steps to set up and deploy the FundMe smart contract locally.
 git clone https://github.com/yourusername/FundMe-Hardhat.git
 cd FundMe-Hardhat
 
-
 <h2>2️⃣ Install Dependencies</h2>
 
 yarn install
