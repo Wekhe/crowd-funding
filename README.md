@@ -46,6 +46,7 @@ COINMARKETCAP_API_KEY=your_coinmarketcap_api_key
 <h2>⚙️ Compiling & Deploying the Contract</h2>
 🔹 Compile the Smart Contract
 
+yarn hardhat compile
 
 🔹 Deploy to a Local Hardhat Network
 
