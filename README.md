@@ -6,6 +6,8 @@ contribute funds and enables the contract owner to withdraw them securely.
 <h2>📌 Project Overview</h2>
 
 <h3>The FundMe smart contract is designed to:</h3>
+✅ Allow users to donate funds in ETH.
+
 ✅ Store all contributions securely on the blockchain.
 ✅ Allow only the contract owner (deployer) to withdraw funds.
 ✅ Use Chainlink Oracles to fetch real-world ETH/USD price data.
