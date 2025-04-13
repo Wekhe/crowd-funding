@@ -64,4 +64,3 @@ yarn hardhat test
 <h2>🔍 Verifying the Contract on Etherscan</h2>
 
 yarn hardhat verify --network sepolia DEPLOYED_CONTRACT_ADDRESS
-
