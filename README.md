@@ -58,7 +58,6 @@ yarn hardhat deploy
 yarn hardhat deploy --network sepolia
 
 <h2>✅ Running Tests</h2>
-
 yarn hardhat test
 
 <h2>🔍 Verifying the Contract on Etherscan</h2>
