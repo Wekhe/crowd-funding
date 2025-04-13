@@ -1,4 +1,4 @@
-'<h1>FundMe - A Decentralized Crowdfunding Smart Contract 🚀</h1>
+<h1>FundMe - A Decentralized Crowdfunding Smart Contract 🚀</h1>
 
 Welcome to FundMe, a smart contract project built using Hardhat that enables decentralized crowdfunding on the Ethereum blockchain. This project allows users to
 contribute funds and enables the contract owner to withdraw them securely.
